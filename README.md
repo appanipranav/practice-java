@@ -1,2 +1,2 @@
-# practice-java
-Contains all the projects to learn Java
+# SQL Leet Code Problems
+Here you find all SQL Leet Code Problem and Solutions
